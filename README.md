@@ -38,7 +38,7 @@ PHI_API_KEY=your_phi_api_key_here
 GROQ_API_KEY=your_groq_api_key_here
 OPENAI_API_KEY=your_openai_api_key_here
 
-🚀 Running the Application
+## 🚀 Running the Application
 
 Start the FastAPI server with:
 
@@ -46,7 +46,7 @@ $ python playground.py
 
 The app runs on the local host, but you can access it from the phidata dashboard.
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 Python 3.8+
 
@@ -60,7 +60,7 @@ YFinance (Stock Market Data)
 
 DuckDuckGo (Web Search)
 
-🏗️ Future Enhancements
+## 🏗️ Future Enhancements
 
 ✅ Improve Web Search by integrating Google Search API
 
