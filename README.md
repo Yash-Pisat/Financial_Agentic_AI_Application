@@ -35,6 +35,8 @@ $ pip install -r requirements.txt
 Create a .env file in the project root and add:
 
 PHI_API_KEY=your_phi_api_key_here
+GROQ_API_KEY=your_groq_api_key_here
+OPENAI_API_KEY=your_openai_api_key_here
 
 🚀 Running the Application
 
@@ -42,7 +44,7 @@ Start the FastAPI server with:
 
 $ python playground.py
 
-The app will run locally on http://127.0.0.1:8000
+The app runs on the local host, but you can access it from the phidata dashboard.
 
 🛠️ Tools & Technologies
 
